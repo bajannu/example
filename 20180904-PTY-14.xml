@@ -1,0 +1,144 @@
+RFH      ¬  "  3              ¸   P<mcd>
+	<Msd>xmlnsc</Msd>
+	<Set>PSM_MACHINE_MRM</Set>
+	<Type/>
+	<Fmt/>
+</mcd>
+<jms/>    <usr>
+	<FileName/>
+	<TimeStamp>2020-11-17T11:00:18+01:00</TimeStamp>
+	<Source>PSM.002669</Source>
+	<Destination>None</Destination>
+	<MachineName/>
+	<MessageType>201</MessageType>
+	<UPUTrackingNumber>1F0069786000004102BCE</UPUTrackingNumber>
+	<SendingCentreName>002669</SendingCentreName>
+</usr>
+<?xml version="1.0" encoding="UTF-8"?>
+<ptp:MPE xmlns:dt="http://www.royalmailgroup.com/cm/rmDatatypes/V1" xmlns:ptp="http://www.royalmailgroup.com/cm/ptpMailPiece/V1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.royalmailgroup.com/cm/ptpMailPiece/V1 ptpMailPiece.xsd">
+	<mailPiece>
+		<mailPieceBarcode>
+			<royalMailSegment>
+				<UPUCountry>JGB </UPUCountry>
+				<informationCode>6</informationCode>
+				<versionId>2</versionId>
+				<mailItemFormatCode>02</mailItemFormatCode>
+				<mailClassCode>G</mailClassCode>
+				<mailTypeCode>2</mailTypeCode>
+			</royalMailSegment>
+			<channelSegment>
+				<uniqueItemId>1F0069786000004102BCE</uniqueItemId>
+				<mailPieceWeight>500</mailPieceWeight>
+				<weightCode>1</weightCode>
+				<barcodeCreationDate>2020-11-17</barcodeCreationDate>
+				<productId>CRL02</productId>
+				<address>
+					<buildingName>Sender Name 19                     </buildingName>
+				</address>
+				<destinationPostcodeDPS>
+					<postcode>NW9 5JU</postcode>
+				</destinationPostcodeDPS>
+				<destinationCountry>GB</destinationCountry>
+				<returnToSenderPostcode>
+					<postcode>NW9 5JU</postcode>
+				</returnToSenderPostcode>
+			</channelSegment>
+		</mailPieceBarcode>
+		<dims>
+			<length>
+				<value>353</value>
+			</length>
+			<height>
+				<value>25</value>
+			</height>
+			<width>
+				<value>250</value>
+			</width>
+			<weight>750</weight>
+			<lengthLFT>
+				<value>403</value>
+			</lengthLFT>
+			<heightLFT>
+				<value>75</value>
+			</heightLFT>
+			<widthLFT>
+				<value>300</value>
+			</widthLFT>
+			<weightLFT>800</weightLFT>
+			<img>
+				<imageUrl>10.20.30.40/FastEnterprise/mprimages/TF_1_112210006_20181122100000.jpg</imageUrl>
+			</img>
+			<img>
+				<imageUrl>10.20.30.40/FastEnterprise/mprimages/BM_1_112210006_20181122100000.jpg</imageUrl>
+			</img>
+			<img>
+				<imageUrl>10.20.30.40/FastEnterprise/mprimages/No Image Information</imageUrl>
+			</img>
+			<img>
+				<imageUrl>10.20.30.40/FastEnterprise/mprimages/No Image Information</imageUrl>
+			</img>
+			<img>
+				<imageUrl>No Image Information</imageUrl>
+			</img>
+			<img>
+				<imageUrl>No Image Information</imageUrl>
+			</img>
+		</dims>
+		<trueVolume>31.42</trueVolume>
+	</mailPiece>
+	<machineRecord>
+		<runtimeMachineParameters>
+			<machineId>20</machineId>
+			<RMGLocation>
+				<siteId>002669</siteId>
+			</RMGLocation>
+		</runtimeMachineParameters>
+		<controlSystem>
+			<PSMMailPieceId>100010006</PSMMailPieceId>
+			<feedingTimestamp>2020-11-17T11:00:18+01:00</feedingTimestamp>
+			<sortToOutputTimestamp>2020-11-17T11:00:18+01:00</sortToOutputTimestamp>
+			<tariffCode>9</tariffCode>
+			<infeedId>1</infeedId>
+			<inductId>1</inductId>
+			<tunnelId>1</tunnelId>
+			<intendedOutputId>2</intendedOutputId>
+			<actualOutputId>2</actualOutputId>
+			<mailPieceRecirculationCount>0</mailPieceRecirculationCount>
+			<mailPieceRecirculationLimit>0</mailPieceRecirculationLimit>
+			<infeedStatusList>0</infeedStatusList>
+			<inductStatusList>0</inductStatusList>
+			<tunnelStatusList>1</tunnelStatusList>
+			<PSAStatus>1</PSAStatus>
+			<outputsDisabledStatusList>0</outputsDisabledStatusList>
+			<revenueProtectionStatus>0</revenueProtectionStatus>
+			<chuteId>0000000000002</chuteId>
+			<rejectIndicator>0</rejectIndicator>
+			<trackedIndicator>1</trackedIndicator>
+			<sortDeliveryConfirmTimestamp>2020-11-17T11:00:18+01:00</sortDeliveryConfirmTimestamp>
+		</controlSystem>
+		<SP>
+			<SPDescription>New_Brum_PSM</SPDescription>
+			<SPId>1</SPId>
+			<sortOutcomeCode>31</sortOutcomeCode>
+			<sortSelectionDestinationCode>002669</sortSelectionDestinationCode>
+			<processingFunctionCode>O</processingFunctionCode>
+		</SP>
+		<operationalMailstream>
+			<infeedOperationalMailstream>3</infeedOperationalMailstream>
+			<IOMCode>9</IOMCode>
+		</operationalMailstream>
+		<SPIDData>
+			<postcode/>
+			<mailClassCode/>
+			<revenueProtectionStatus>0</revenueProtectionStatus>
+			<ruleSet5>A</ruleSet5>
+			<ruleSet6>420</ruleSet6>
+			<ruleSet6>340</ruleSet6>
+			<ruleSet6>220</ruleSet6>
+			<ruleSet6>780</ruleSet6>
+		</SPIDData>
+		<SPConfiguration>
+			<deliveredBy>002669</deliveredBy>
+		</SPConfiguration>
+	</machineRecord>
+</ptp:MPE>
